@@ -8,5 +8,21 @@ public class Wilder {
         this.aware = aware;
     }
 
+    public String getFirstname() {
+        return this.firstname;
+    }
+
+    public void setFirstname(String firstname) {
+        this.firstname = firstname;
+    }
+
+    public boolean isAware() {
+        return this.aware;
+    }
+
+    public void setAware(boolean aware) {
+        this.aware = aware;
+    }
+
 
 }
